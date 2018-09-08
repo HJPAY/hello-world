@@ -1,3 +1,3 @@
 # hello-world
 
-hjpay here, i use C and coffeescript in my work.
+hjpay here, i use C lang, PHP, coffeescript, python, perl, bash in my work.
